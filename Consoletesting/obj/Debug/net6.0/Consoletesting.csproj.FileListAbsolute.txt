@@ -1,0 +1,5 @@
+E:\Consoletesting\obj\Debug\net6.0\Consoletesting.csproj.AssemblyReference.cache
+E:\Consoletesting\obj\Debug\net6.0\Consoletesting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Consoletesting\obj\Debug\net6.0\Consoletesting.AssemblyInfoInputs.cache
+E:\Consoletesting\obj\Debug\net6.0\Consoletesting.AssemblyInfo.cs
+E:\Consoletesting\obj\Debug\net6.0\Consoletesting.csproj.CoreCompileInputs.cache
